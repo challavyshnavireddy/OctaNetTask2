@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500&display=swap');/* .container
+{ */
+    
+    /* background: linear-gradient(to right bottom, red,green); */
+/* display: flex; */
+.p{
+    background-color: palevioletred;
+border-color: palevioletred;
+outline: none;
+box-shadow: 0 0 10px palevioletred;
+}
+::placeholder
+{
+    color: aliceblue;
+    
+}
+.contain
+{
+   justify-content: center;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #232f35;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* .app-wrapper{
+    background-color: #232f35;
+    box-sizing: border-box;
+    width: 1500px;
+    height: 1500px;
+    background-size:cover;
+} */
+.text
+{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: larger;
+    color: darkgreen;
+}
+.t1{
+    font-family: 'Indie Flower', cursive;
+    color:  #006699;
+    font-size: xxx-large;
+    }
+    p{
+        font-family: 'Rubik Iso', cursive;
+        color:  #006699;
+        font-weight: 300;
+        font-size: xx-large;
+    }
+    .t{
+        font-family: 'Titillium Web', sans-serif;
+        font-size:xx-large;
+        color: #006699;
+    }
+    .t2
+    {
+        font-family: 'Cormorant Garamond', serif;
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
